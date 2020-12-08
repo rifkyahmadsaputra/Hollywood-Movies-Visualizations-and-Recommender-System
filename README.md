@@ -37,10 +37,10 @@
  Preprocessed data
 </p>
 
+<br></br>
 <p align = "justify">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; After that I do some visualizations on the data. Here are some analysis and visualization that  I have done.
 </p>
-<br></br>
 
 #### - Which decade has release most movies and highest average vote (rating) ?
 <p align="center"> 
@@ -122,7 +122,7 @@
 </p>
 
 <p align = "justify">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Based on pictures above, Eric Roberts is the actor who has acted in the most movies that is 192 movies, followed by John Carradine with 154 movies, Henry O’Neil with 139 movies, etc. Meanwhile, based on average vote (rating), Charles Chapling is in first place with a average vote (rating) of 7.58, followed by Anthony Daniel and Montgomery Clift with the difference average vote (rating) is almost the same that is 7.35 and 7.34, etc.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Based on pictures above, Eric Roberts is the actor who has acted in the most movies that is 192 movies, followed by John Carradine with 154 movies, Henry O’Neil with 139 movies, etc. Meanwhile, based on average vote (rating), Charles Chaplin is in first place with a average vote (rating) of 7.58, followed by Anthony Daniel and Montgomery Clift with the difference average vote (rating) is almost the same that is 7.35 and 7.34, etc.
 </p>
 <br></br>
 
