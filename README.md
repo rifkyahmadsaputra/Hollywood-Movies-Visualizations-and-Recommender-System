@@ -76,7 +76,7 @@
 </p>
 <br></br>
  
- #### -	Which production company has release most movies, highest average vote (rating) and highest total income ?
+ #### -	Which production company has produce most movies, highest average vote (rating) and highest total income ?
 <p align="center"> 
  <img src="images/top 10 production companies based on movie counts.png" /> 
  <img src="images/top 10 production companies based on average vote (rating).png" /> 
