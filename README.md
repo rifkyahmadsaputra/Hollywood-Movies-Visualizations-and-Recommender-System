@@ -177,4 +177,4 @@
 </p>
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-For details you can check my code : [Hollywood Movies Visualization and Recommender System.ipynb](https://github.com/rifkyahmadsaputra/Hollywood-Movies-Visualization-and-Recommender-System/blob/master/Hollywood%20Movies%20Visualization%20and%20Recommender%20System.ipynb)
+For details you can check my code : [Hollywood Movies Visualizations and Recommender System.ipynb](https://github.com/rifkyahmadsaputra/Hollywood-Movies-Visualizations-and-Recommender-System/blob/master/Hollywood%20Movies%20Visualization%20and%20Recommender%20System.ipynb)
